@@ -72,10 +72,10 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 Server side:
-![serverside](../Echoserver/img1/Screenshot%20at%202025-03-22%2008-47-26.png)
+![serverside](/img1/Screenshot%20at%202025-03-22%2008-47-26.png)
 
 Client side:
-![clientside](../Echoserver/img1/Screenshot%20at%202025-03-22%2008-48-09.png)
+![clientside](/img1/Screenshot%20at%202025-03-22%2008-48-09.png)
 
 ## RESULT:
 The program is executed successfully
